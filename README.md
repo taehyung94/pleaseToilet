@@ -20,7 +20,7 @@ pleasetoliet은 gps 기반 위치 주변의 공중 화장실을 찾아주는 반
 <img width=300 height=300 src="https://user-images.githubusercontent.com/22286911/92464716-826c0980-f208-11ea-84f7-24c338cd20ed.PNG">  
 </div>
 
-## 리뷰 확인 및 
+## 리뷰 확인 및 작성
 <div>
 <img width=300 height=300 src="https://user-images.githubusercontent.com/22286911/92464757-90ba2580-f208-11ea-91cc-06ce6e53dd6b.PNG">    
 <img width=300 height=300 src="https://user-images.githubusercontent.com/22286911/92464756-90218f00-f208-11ea-9c20-fd1126b8d527.PNG">  
